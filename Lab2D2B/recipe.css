@@ -1,7 +1,7 @@
 body {
   background-color: white;
-  columns: #404040;
-  font-style: 11pt;
+  columns: auto;
+  font-size: 11pt;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 h1,
